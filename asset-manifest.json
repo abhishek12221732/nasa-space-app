@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nasa-space-app/static/css/main.2053ddae.css",
+    "main.js": "/nasa-space-app/static/js/main.15aeceea.js",
+    "static/js/453.f04c68ee.chunk.js": "/nasa-space-app/static/js/453.f04c68ee.chunk.js",
+    "static/media/space-bg.jpg": "/nasa-space-app/static/media/space-bg.42adfca2b9c24a09ac03.jpg",
+    "index.html": "/nasa-space-app/index.html",
+    "main.2053ddae.css.map": "/nasa-space-app/static/css/main.2053ddae.css.map",
+    "main.15aeceea.js.map": "/nasa-space-app/static/js/main.15aeceea.js.map",
+    "453.f04c68ee.chunk.js.map": "/nasa-space-app/static/js/453.f04c68ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2053ddae.css",
+    "static/js/main.15aeceea.js"
+  ]
+}
